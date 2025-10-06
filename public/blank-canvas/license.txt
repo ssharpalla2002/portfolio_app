@@ -1,0 +1,11 @@
+Model Information:
+* title:	blank-canvas
+* source:	https://sketchfab.com/3d-models/blank-canvas-28e13ceae1d84b28b69e0ae288c523ad
+* author:	thewarpedexperience (https://sketchfab.com/thewarpedexperience)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "blank-canvas" (https://sketchfab.com/3d-models/blank-canvas-28e13ceae1d84b28b69e0ae288c523ad) by thewarpedexperience (https://sketchfab.com/thewarpedexperience) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

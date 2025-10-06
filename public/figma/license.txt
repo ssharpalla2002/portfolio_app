@@ -1,0 +1,11 @@
+Model Information:
+* title:	Figma
+* source:	https://sketchfab.com/3d-models/figma-5a66a770e9864e50870e5d5f17c4b211
+* author:	DemiGod1410 (https://sketchfab.com/DemiGod1410)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Figma" (https://sketchfab.com/3d-models/figma-5a66a770e9864e50870e5d5f17c4b211) by DemiGod1410 (https://sketchfab.com/DemiGod1410) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
