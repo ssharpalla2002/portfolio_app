@@ -1,19 +1,19 @@
-# 🌐 Portfolio App
+# Sanjith's Portfolio App
 
 A modern, interactive **portfolio website** built with **React** and **Three.js**, designed to showcase projects, skills, and personal brand in a visually engaging way.  
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎨 **3D Interactive Elements** powered by Three.js  
-- 📱 **Responsive design** across desktop, tablet, and mobile  
-- 🖼️ **Project showcase** with clean UI  
-- ⚡ Optimized for performance and smooth animations  
-- 🌐 **Deployed on Netlify** for fast global delivery
+-  **3D Interactive Elements** powered by Three.js  
+-  **Responsive design** across desktop, tablet, and mobile  
+-  **Project showcase** with clean UI  
+-  Optimized for performance and smooth animations  
+-  **Deployed on Netlify** for fast global delivery
 
 ---
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1)Clone the repository
 
@@ -37,19 +37,19 @@ yarn run build
 
 ---
 
-🌐 Deployment (Netlify)
+## Deployment
 
-Create a Netlify
+- Create a Netlify
  account
 
-Connect your GitHub repo
+- Connect your GitHub repo
 
-Deploy with build settings:
+- Deploy with build settings:
 
-Build Command: npm run build
+- Build Command: npm run build
 
-Publish Directory: build/
+- Publish Directory: build/
 
-Netlify will automatically build and deploy your portfolio on every push 🚀
+- Netlify will automatically build and deploy your portfolio on every push 
 
 ---
