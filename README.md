@@ -18,6 +18,7 @@ A modern, interactive **portfolio website** built with **React** and **Three.js*
 ### 1)Clone the repository
 
    git clone https://github.com/ssharpalla2002/portfolio_app.git
+   
    cd portfolio_app
 
 ### 2)Install dependencies
