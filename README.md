@@ -14,18 +14,25 @@ Deployed seamlessly on **Netlify** for fast, reliable hosting.
 - 🌐 **Deployed on Netlify** for fast global delivery
 
 ---
+## ⚙️ Installation & Setup
 
-### 1)Install dependencies
+### 1)Clone the repository
+
+   ```bash
+   git clone https://github.com/ssharpalla2002/portfolio_app.git
+   cd portfolio_app
+
+### 2)Install dependencies
 
 yarn install
 
 
-### 2)Start development server
+### 3)Start development server
 
 yarn run dev
 
 
-### 3)Build for production
+### 4)Build for production
 
 yarn run build
 
