@@ -18,7 +18,6 @@ Deployed seamlessly on **Netlify** for fast, reliable hosting.
 
 ### 1)Clone the repository
 
-   ```bash
    git clone https://github.com/ssharpalla2002/portfolio_app.git
    cd portfolio_app
 
@@ -35,5 +34,22 @@ yarn run dev
 ### 4)Build for production
 
 yarn run build
+
+---
+
+🌐 Deployment (Netlify)
+
+Create a Netlify
+ account
+
+Connect your GitHub repo
+
+Deploy with build settings:
+
+Build Command: npm run build
+
+Publish Directory: build/
+
+Netlify will automatically build and deploy your portfolio on every push 🚀
 
 ---
