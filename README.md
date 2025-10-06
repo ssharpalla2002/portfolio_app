@@ -1,7 +1,6 @@
 # 🌐 Portfolio App
 
 A modern, interactive **portfolio website** built with **React** and **Three.js**, designed to showcase projects, skills, and personal brand in a visually engaging way.  
-Deployed seamlessly on **Netlify** for fast, reliable hosting.  
 
 ---
 
